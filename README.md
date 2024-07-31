@@ -10,9 +10,9 @@
 3. move all contents of you defined root folder to other bookmark folder：  Ctrl+Shift+O （【questions】收藏夹打上时间戳移到【其他收藏夹】归档）
 
 ### 单个页面收藏
-使用该插件提供快捷键（Ctrl+Shift+I）在【questions】收藏夹下，新建该问题的收藏夹
-使用浏览器默认快捷键（Ctrl+D）添加当前页到收藏夹
+1. 使用该插件提供快捷键（Ctrl+Shift+I）在【questions】收藏夹下，新建该问题的收藏夹
+2. 使用浏览器默认快捷键（Ctrl+D）添加当前页到收藏夹
 
 ### 整个窗口收藏
-使用该插件提供的快捷键（Ctrl+Shift+U）将收藏夹焦点回到【questions】收藏夹
-使用浏览器默认快捷键（Ctrl+Shift+D）添加新收藏夹到【questions】收藏夹下
+1. 使用该插件提供的快捷键（Ctrl+Shift+U）将收藏夹焦点回到【questions】收藏夹
+2. 使用浏览器默认快捷键（Ctrl+Shift+D）添加新收藏夹到【questions】收藏夹下

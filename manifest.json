@@ -1,0 +1,25 @@
+{
+  "name": "QBookmarks",
+  "version": "1.0",
+  "description": "define a folder questions and operate it with some shortcuts",
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "permissions": ["tabs","bookmarks"],
+  "commands": {
+    "move-other": {
+      "suggested_key": { "default": "Ctrl+Shift+O","mac": "Command+Shift+O" },
+      "description": "move all contents of you defined root folder to other bookmark folder"
+    },
+    "add-folder": {
+      "suggested_key": { "default": "Ctrl+Shift+I","mac": "Command+Shift+I" },
+      "description": "insert new folder into you defined root folder"
+    },
+    "reback-questions": {
+      "suggested_key": { "default": "Ctrl+Shift+U","mac": "Command+Shift+U" },
+      "description": "current focus reback questions folder"
+    }
+  },
+  "manifest_version": 2
+}

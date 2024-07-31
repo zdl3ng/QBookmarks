@@ -15,4 +15,4 @@
 
 ### 整个窗口收藏
 1. 使用该插件提供的快捷键（Ctrl+Shift+U）将收藏夹焦点回到【questions】收藏夹
-2. 使用浏览器默认快捷键（Ctrl+Shift+D）添加新收藏夹到【questions】收藏夹下
+2. 使用浏览器默认快捷键（Ctrl+Shift+D）添加窗口所有页面并新起收藏夹到【questions】收藏夹下

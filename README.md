@@ -1,4 +1,4 @@
-# qbookmarks
+# QBookmarks
 edge浏览器插件：书签快捷键归档
 
 ## 插件介绍

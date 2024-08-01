@@ -10,15 +10,15 @@
   "commands": {
     "move-other": {
       "suggested_key": { "default": "Ctrl+Shift+O","mac": "Command+Shift+O" },
-      "description": "3. move all contents of you defined root folder to other bookmark folder(win:Ctrl+Shift+O,mac:Command+Shift+O)"
+      "description": "3.(win:Ctrl+Shift+O)move all contents of you defined root folder to other bookmark folder"
     },
     "add-folder": {
       "suggested_key": { "default": "Ctrl+Shift+I","mac": "Command+Shift+I" },
-      "description": "2. insert new folder into you defined root folder(win:Ctrl+Shift+I,mac:Command+Shift+I)"
+      "description": "2.(win:Ctrl+Shift+I)insert new folder into you defined root folder"
     },
     "reback-questions": {
       "suggested_key": { "default": "Ctrl+Shift+U","mac": "Command+Shift+U" },
-      "description": "1. current focus reback questions folder(win:Ctrl+Shift+U,mac:Command+Shift+U)"
+      "description": "1.(win:Ctrl+Shift+U)current focus reback questions folder"
     }
   },
   "manifest_version": 2

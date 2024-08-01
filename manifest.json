@@ -10,7 +10,7 @@
   "commands": {
     "move-other": {
       "suggested_key": { "default": "Ctrl+Shift+O","mac": "Command+Shift+O" },
-      "description": "move all contents of you defined root folder to other bookmark folder(win:Ctrl+Shift+O,mac:Command+Shift+O)"
+      "description": "3. move all contents of you defined root folder to other bookmark folder(win:Ctrl+Shift+O,mac:Command+Shift+O)"
     },
     "add-folder": {
       "suggested_key": { "default": "Ctrl+Shift+I","mac": "Command+Shift+I" },
